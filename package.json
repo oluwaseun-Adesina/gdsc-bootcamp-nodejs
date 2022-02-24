@@ -1,0 +1,26 @@
+{
+  "name": "gdsc-bootcamp-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwaseun-Adesina/gdsc-bootcamp-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oluwaseun-Adesina/gdsc-bootcamp-nodejs/issues"
+  },
+  "homepage": "https://github.com/oluwaseun-Adesina/gdsc-bootcamp-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
